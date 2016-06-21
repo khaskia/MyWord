@@ -1,0 +1,11 @@
+C:\CodePlex\jskin\ModernBlack\jSkinExample\bin\Debug\jSkinExample.exe.config
+C:\CodePlex\jskin\ModernBlack\jSkinExample\bin\Debug\jSkinExample.exe
+C:\CodePlex\jskin\ModernBlack\jSkinExample\bin\Debug\jSkinExample.pdb
+C:\CodePlex\jskin\ModernBlack\jSkinExample\bin\Debug\jSkin.dll
+C:\CodePlex\jskin\ModernBlack\jSkinExample\bin\Debug\jSkin.pdb
+C:\CodePlex\jskin\ModernBlack\jSkinExample\obj\Debug\jSkinExample.csprojResolveAssemblyReference.cache
+C:\CodePlex\jskin\ModernBlack\jSkinExample\obj\Debug\jSkinExample.frmExample.resources
+C:\CodePlex\jskin\ModernBlack\jSkinExample\obj\Debug\jSkinExample.Properties.Resources.resources
+C:\CodePlex\jskin\ModernBlack\jSkinExample\obj\Debug\jSkinExample.csproj.GenerateResource.Cache
+C:\CodePlex\jskin\ModernBlack\jSkinExample\obj\Debug\jSkinExample.exe
+C:\CodePlex\jskin\ModernBlack\jSkinExample\obj\Debug\jSkinExample.pdb

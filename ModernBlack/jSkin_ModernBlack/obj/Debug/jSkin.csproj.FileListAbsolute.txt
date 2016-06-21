@@ -1,0 +1,7 @@
+C:\CodePlex\jskin\ModernBlack\jSkin_ModernBlack\bin\Debug\jSkin.dll
+C:\CodePlex\jskin\ModernBlack\jSkin_ModernBlack\bin\Debug\jSkin.pdb
+C:\CodePlex\jskin\ModernBlack\jSkin_ModernBlack\obj\Debug\jSkin.csprojResolveAssemblyReference.cache
+C:\CodePlex\jskin\ModernBlack\jSkin_ModernBlack\obj\Debug\jSkin.ctlModernBlack.resources
+C:\CodePlex\jskin\ModernBlack\jSkin_ModernBlack\obj\Debug\jSkin.csproj.GenerateResource.Cache
+C:\CodePlex\jskin\ModernBlack\jSkin_ModernBlack\obj\Debug\jSkin.dll
+C:\CodePlex\jskin\ModernBlack\jSkin_ModernBlack\obj\Debug\jSkin.pdb
